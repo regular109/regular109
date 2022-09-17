@@ -6,6 +6,7 @@ Now,look this.
 Everything No error No warning！
 
 ![](https://github-readme-stats.vercel.app/api?username=regular109&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=regular109&theme=dark&layout=compact)
 <!--
 **regular109/regular109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
